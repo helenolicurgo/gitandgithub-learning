@@ -2,15 +2,18 @@
 
 Let's get in to the Git and GitHub to brush of my skills in collaboration!
 
-:stat2: ToDo List:
-:stat: git init
-:stat: Configure the git config file
-:stat: create and edit (if needed) the .gitignore file
+:construction_worker: ToDo List: :running:
+:star: git init
+:star: Configure the git config file
+:star: create and edit (if needed) the .gitignore file
 
-:stat2: Git Commands:
-:stat: git init
-:stat: git config --list
-:stat: git config --global init.defaultBranch "trunk"
-:stat: git config --global user.name "Your Name"
-:stat: git config --global user.email "you@email.com"
+:star2: Git Commands: :star2:
+:star: git init
+:star: git config --list
+:star: git config --global init.defaultBranch "trunk"
+:star: git config --global user.name "Your Name"
+:star: git config --global user.email "you@email.com"
 :stat: git status : current status of the project
+:stat: git add . (add ALL files to the staging area)
+:stat: git add <filename> (add ONE SPECIFIC file to the staging area)
+:stat: git commit -m "Message for this Commit"
