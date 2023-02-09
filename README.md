@@ -31,16 +31,14 @@ Let's get in to the Git and GitHub to brush of my skills in collaboration!
 
 :star: git remote show alias-4-remote-repository (Retrurn more information about a specific remote repositorie)
 
-:stat: git status : current status of the project
+:star: git status : current status of the project
 
-:stat: git add . (add ALL files to the staging area)
+:star: git add . (add ALL files to the staging area)
 
-:stat: git add <filename> (add ONE SPECIFIC file to the staging area)
+:star: git add <filename> (add ONE SPECIFIC file to the staging area)
 
-:stat: git commit -a -m "Message for this Commit" (Commit all files)
+:star: git commit -a -m "Message for this Commit" (Commit all files)
 
-:stat: git log
+:star: git log
 
 :stat: git push alias-4-remote-repository name-of-the-branch -u (Push updated files to a specific branch of a named remote repository and with -u making this repository the upstream remote at the git config file - if it's the final source of thruth for your code)
-
-:stat: git 
