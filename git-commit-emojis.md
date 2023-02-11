@@ -1,8 +1,8 @@
-#Sugestive list for emojis to use in git commit messages:
+#Suggestion list for emojis to use in git commit messages:
 
-Can we provide a better and more standadized way to use emojis in the commit messages?
+Can we provide a better and more standardized way to use emojis in the commit messages?
 
-Let's try by spreading this table of sugestions:
+Let's try by spreading this table of suggestions:
 
 |   Commit message type      | Emoji                                         |
 |:---------------------------|:----------------------------------------------|
@@ -49,4 +49,4 @@ Let's try by spreading this table of sugestions:
 | Code review changes        | :ok_hand: `:ok_hand:`                         |
 | Accessibility              | :wheelchair: `:wheelchair:`                   |
 | Move/rename repository     | :truck: `:truck:`                             |
-| Mre here                   | [Find out more](http://www.emoji-cheat-sheet.com/)  |
+| More here                   | [Find out more](http://www.emoji-cheat-sheet.com/)  |
