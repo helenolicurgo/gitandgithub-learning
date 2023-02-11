@@ -2,8 +2,12 @@
 
 Let's get in to the Git and GitHub to brush of my skills in collaboration!
 
-- :exclamation: You need to understand Git as a tree with trunk and branchs.
-- :exclamation: The 
+- :cactus: You need to understand Git as a tree with trunk and branchs.
+- :evergreen_tree: The trunk is the main path of the application under development
+- :palm_tree: The branches are the paths of development that each team and/or developer is following and making changes
+- :deciduous_tree: After some time in development (after verification and testing) we can merge the branchs back together in the trunk.
+- :cactus: And come back to "branching" again as development cicle request until the next merge...
+- 
 
 :construction_worker: ToDo List: :running:
 
@@ -51,8 +55,27 @@ Let's get in to the Git and GitHub to brush of my skills in collaboration!
 
 - ⭐ git merge name-of-the-branch/branch-name (MERGE your branches in to the trunck back together)
 
+- ⭐ git merge --abort (will abort the merge attempt and keep things as they was before the merge)
+
 - ⭐ git pull (Will FETCH and MERGE files from your git remote repository in your local repository)
 
 - ⭐ git clone remote_repository_address optional_directory_to_save_remote_repository (Will COPY all the remote repository in to your local machine)
 
-- ⭐ git 
+- ⭐ git branch (to show all branches in the project folder)
+
+- ⭐ git branch <new_branch_name> (to create a new branch from the trunk)
+
+- ⭐ git branch -M <new_name> (to rename the "main" or "master" branch/trunk)
+
+- ⭐ git branch -d <branch_name> (to safe delete the branch if it's have not been merged with the trunk)
+
+- ⭐ git branch -D <branch_name> (to delete the branch no matter this situation)
+
+- ⭐ git checkout <branch_name> (to move to the chosed branch)
+
+- ⭐ git checkout -b <branch_name> (to create a new branch and move to that one)
+
+- ⭐ git checkout - (will take you back to your previous branch)
+
+- ⭐ git diff (will return the difference bettween two commits in conflict)
+
