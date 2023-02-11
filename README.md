@@ -45,3 +45,6 @@ Let's get in to the Git and GitHub to brush of my skills in collaboration!
 
 :star: git log (will return log information use Ctrl+Z to exit log)
 
+:star: git fetch (FETCH the changes from the remote repository to your local repository)
+
+:star: git merge 
