@@ -37,10 +37,10 @@ Let's get in to the Git and GitHub to brush of my skills in collaboration!
 
 :star: git commit -a -m "Message for this Commit" (Commit all files)
 
-:star: git log
-
 :star: git push (a direct aproach to PUSH your files in to the configured remote repository)
 
 :star: git push alias-4-remote-repository name-of-the-branch -u (Push updated files to a specific branch of a named remote repository and with -u making this repository the upstream remote at the git config file - if it's the final source of thruth for your code)
 
 :star: git pull (Will pull files from your git repository)
+
+:star: git log (will return log information use Ctrl+Z to exit log)
