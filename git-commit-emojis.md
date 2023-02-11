@@ -4,7 +4,6 @@ Can we provide a better and more standadized way to use emojis in the commit mes
 
 Let's try by spreading this table of sugestions:
 
-|:---------------------------|:----------------------------------------------|
 |   Commit type              | Emoji                                         |
 |:---------------------------|:----------------------------------------------|
 | Initial commit             | :tada: `:tada:`                               |
