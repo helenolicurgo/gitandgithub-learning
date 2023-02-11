@@ -47,4 +47,4 @@ Let's get in to the Git and GitHub to brush of my skills in collaboration!
 
 :star: git fetch (FETCH the changes from the remote repository to your local repository)
 
-:star: git merge 
+:star: git merge name-of-the-branch/branch-name (MERGE your branches in to the trunck back together)
